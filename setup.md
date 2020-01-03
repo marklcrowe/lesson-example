@@ -106,7 +106,7 @@ new lesson is `data-cleanup`.
 	necessarily realising it. Switching to the `gh-branch` ensures you are
 	using the "stable" version of the template.
 
-11. Run `bin/lesson_initialize.py` to create all of the boilerplate files
+11. Run `python bin/lesson_initialize.py` to create all of the boilerplate files
     that cannot be put into the styles repository
     (because they would trigger repeated merge conflicts).
 
